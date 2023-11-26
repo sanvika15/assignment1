@@ -5,44 +5,53 @@
         <h1 class="text-4xl font-bold">History of Virat Kohli</h1>
     </header>
 
-    <!-- Main Content Section -->
+    
+
     <section class="container mx-auto mt-8 px-4">
+            <h2 class="text-2xl font-semibold mb-4"">Early Life and Domestic Career</h2>
+            <p>
+                Virat Kohli was born on November 5, 1988, in Delhi, India. He showed early promise in cricket and
+                captained the Indian U-19 team to victory in the 2008 ICC Under-19 Cricket World Cup, showcasing his talent at a young age.
+            </p>
+        </section>
 
-        <!-- Early Life and Entry into Cricket -->
-        <div class="mb-8">
-            <h2 class="text-2xl font-semibold mb-4">Early Life and Entry into Cricket</h2>
-            <p>Virat Kohli was born on November 5, 1988, in Delhi, India. His father, Prem Kohli, worked as a criminal lawyer, and his mother, Saroj Kohli, is a housewife. Virat showed an early interest in cricket and started playing at a young age...</p>
-        </div>
+        <section class="container mx-auto mt-8 px-4">
+            <h2 class="text-xl font-bold mb-2">International Debut</h2>
+            <p>
+                Kohli made his ODI debut on August 18, 2008, against Sri Lanka. His Test debut came on June 20, 2011,
+                against West Indies, and he played his first T20I on June 12, 2010, against Zimbabwe.
+            </p>
+        </section>
 
-        <!-- International Debut and Early Years -->
-        <div class="mb-8">
-            <h2 class="text-2xl font-semibold mb-4">International Debut and Early Years</h2>
-            <p>Virat Kohli made his international debut for India in August 2008 in an One Day International (ODI) against Sri Lanka. His early performances showcased his aggressive style and exceptional batting skills...</p>
-        </div>
+        <section class="container mx-auto mt-8 px-4">
+            <h2 class="text-xl font-bold mb-2">Captaincy</h2>
+            <p>
+                Virat Kohli assumed the captaincy of the Indian Test team in 2014 and later took charge of the
+                limited-overs teams in 2017, becoming one of the most successful captains in Indian cricket history.
+            </p>
+        </section>
 
-        <!-- Leadership and Captaincy -->
-        <div class="mb-8">
-            <h2 class="text-2xl font-semibold mb-4">Leadership and Captaincy</h2>
-            <p>Virat Kohli took over the captaincy of the Indian cricket team across all formats. He became the captain of the Test team in 2014 and later assumed the limited-overs captaincy. Under his leadership, India achieved notable successes, including historic Test series wins overseas...</p>
-        </div>
+        <section class="container mx-auto mt-8 px-4">
+            <h2 class="text-xl font-bold mb-2">Major Achievements and Records</h2>
+            <p>
+                Kohli set numerous records, including being the fastest player to reach milestones in ODIs,
+                leading India to historic victories, and receiving prestigious awards such as the Sir Garfield Sobers Trophy.
+            </p>
+        </section>
 
-        <!-- Record-Breaking Performances -->
-        <div class="mb-8">
-            <h2 class="text-2xl font-semibold mb-4">Record-Breaking Performances</h2>
-            <p>Kohli developed into one of the world's premier batsmen, known for his consistency and ability to chase down targets. He set numerous records, including being the fastest to reach various run milestones in ODIs...</p>
-        </div>
+        <section class="container mx-auto mt-8 px-4">
+            <h2 class="text-xl font-bold mb-2">Personal Life</h2>
+            <p>
+                Virat Kohli is married to Bollywood actress Anushka Sharma, and they are proud parents of a daughter named Vamika.
+            </p>
+        </section>
 
-        <!-- Personal Life -->
-        <div class="mb-8">
-            <h2 class="text-2xl font-semibold mb-4">Personal Life</h2>
-            <p>In December 2017, Virat Kohli married Bollywood actress Anushka Sharma. The couple, often referred to as "Virushka," gained significant attention and became a power couple in their respective fields...</p>
-        </div>
+        <section class="container mx-auto mt-8 px-4">
+            <h2 class="text-xl font-bold mb-2">Social Initiatives</h2>
+            <p>
+                Apart from his cricketing achievements, Virat Kohli and Anushka Sharma are actively involved in social initiatives,
+                contributing to causes related to child health and animal welfare.
+            </p>
+        </section>
 
-        <!-- Beyond Cricket -->
-        <div class="mb-8">
-            <h2 class="text-2xl font-semibold mb-4">Beyond Cricket</h2>
-            <p>Virat Kohli is actively involved in philanthropy. He established the Virat Kohli Foundation in 2013, focusing on supporting underprivileged children and other social causes...</p>
-        </div>
-
-    </section>
 @endsection
